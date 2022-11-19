@@ -2,8 +2,8 @@
 /**
  * Write a description of class WriteIFs here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (ninachen)
+ * @version (11/19/2022)
  */
 public class WriteIFs
 {
